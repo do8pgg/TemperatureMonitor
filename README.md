@@ -5,7 +5,7 @@ This Project uses a 2004-i2c-LCD, a ds18b20 temperature sensor, and is all based
 
 
 ![alt text](https://github.com/petergeher/TemperatureMonitor/blob/main/images/TG_Using1.jpg?raw=true)
-![alt text](https://github.com/petergeher/TemperatureMonitor/blob/main/images/TG_Alarm1.jpg?raw=true)
+![alt text](https://github.com/petergeher/TemperatureMonitor/blob/main/images/TG_alarm1.jpg?raw=true)
 
 ![alt text](https://github.com/petergeher/TemperatureMonitor/blob/main/images/LCD_cold.jpg?raw=true)
 ![alt text](https://github.com/petergeher/TemperatureMonitor/blob/main/images/LCD_warm.jpg?raw=true)
